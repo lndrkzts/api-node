@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": null,
+    "password": null,
+    "database": "utn-node-db",
+    "host": "127.0.0.1",
+    "dialect": "sqlite",
+    "storage": "./utn-node-db.sqlite3"
+  }
+}
